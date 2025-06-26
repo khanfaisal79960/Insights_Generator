@@ -28,16 +28,14 @@ This AI-powered Streamlit app analyzes influencer marketing data and generates a
 
 ## 📁 Project Structure
 
+```
 influencer_insights_ai/
 ├── app.py # Main Streamlit app
 ├── config.py # OpenRouter API key setup
 ├── utils/
 │ ├── ranker.py # AI logic using OpenRouter (LLaMA)
 │ └── report_generator.py # PDF report generator
-
-yaml
-Copy
-Edit
+```
 
 ---
 
