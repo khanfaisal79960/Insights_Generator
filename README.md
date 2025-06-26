@@ -1,4 +1,4 @@
-# 🤖 Influencer Insights AI App
+# 🤖 Insights AI App
 
 This AI-powered Streamlit app analyzes influencer marketing data and generates automated summary reports using the OpenRouter API (LLaMA 3). It dynamically accepts any Excel file, detects sheet and structure, and provides structured insights + a downloadable PDF.
 
